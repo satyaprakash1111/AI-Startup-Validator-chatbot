@@ -1,0 +1,6 @@
+{
+  "name": "Startup Idea Evaluator",
+  "description": "A chatbot for evaluating startup ideas based on Problem, Target Audience, Market Demand, Competitors, USP, Revenue Model, Feasibility, Scalability, and Risks with instant out-of-10 scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
